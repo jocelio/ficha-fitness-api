@@ -1,9 +1,10 @@
 package com.fichafitness.exercise.api;
 
-import com.fichafitness.exercise.model.ExerciseGroup;
 import com.fichafitness.exercise.model.Exercise;
+import com.fichafitness.exercise.model.ExerciseGroup;
 import com.fichafitness.exercise.repository.ExerciseGroupRepository;
 import com.fichafitness.exercise.repository.ExerciseRepository;
+import io.swagger.annotations.ApiOperation;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
