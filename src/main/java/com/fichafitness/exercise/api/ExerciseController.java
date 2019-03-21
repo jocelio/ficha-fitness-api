@@ -2,8 +2,6 @@ package com.fichafitness.exercise.api;
 
 import com.fichafitness.exercise.model.Exercise;
 import com.fichafitness.exercise.repository.ExerciseRepository;
-import com.fichafitness.fila.model.Driver;
-import com.fichafitness.fila.repository.DriverRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

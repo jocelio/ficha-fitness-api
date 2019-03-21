@@ -21,5 +21,5 @@ public class Exercise {
 
 	private String name;
 
-	private String group;
+	private String exerciceGroup;
 }
